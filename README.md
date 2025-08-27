@@ -57,12 +57,12 @@ This repository contains the QA testing documentation for the **Fajr Alarm Appli
 
 ## 🐞 Bugs & Ambiguities
 
-- Minute-only Fajr alarm time selector (recommend hours:minutes UI)
+- Minute-only Fajr alarm time selector (recommend hours: minutes UI)
 - Suhoor toggle disables instantly vs. Fajr toggle showing options
-- Duplicate share options in Settings tab
+- Duplicate share options in the Settings tab
 - Navigation inconsistency between Prayer Notifications and Prayer Times tabs
 - Unclear use of copied User ID
-- Prayer times arrows positioned near location, not the date
+- Prayer times arrows positioned near the location, not the date
 - Non-linear volume increments (in some ranges)
 
 ---
